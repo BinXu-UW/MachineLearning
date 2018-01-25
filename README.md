@@ -1,3 +1,2 @@
 # MachineLearning
-Some homework project
-finalproject
+Some homework project and final project
