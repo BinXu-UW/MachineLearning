@@ -1,2 +1,3 @@
 # MachineLearning
-EE695finalproject
+Some homework project
+finalproject
